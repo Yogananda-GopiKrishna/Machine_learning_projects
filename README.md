@@ -2,12 +2,12 @@
 Some of Academic Machine learning projects 
 
 
-**Tools Used**
+- **Tools Used**
 1. Python
 2. Excel
 3. SQL
 
-**Libraries used**
+- **Libraries used**
 1. Numpy
 2. Pandas
 3. Matplotlib
@@ -16,7 +16,7 @@ Some of Academic Machine learning projects
 6. Pickle
 7. Flask
 
-**Description**
+- **Description**
 1. Loaded Data by using Pandas Library in python.
 2. Data Understanding the data - Statistical Techniques.
 3. Data Exploration.
